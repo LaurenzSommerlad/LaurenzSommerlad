@@ -1,5 +1,4 @@
-### Hi there 👋
-
+###Robotics, AI & Entrepreneurship | TUM Student | Sports 🏋️‍♂️🥋🏃🤿🏂 | Languages 🇩🇪🇺🇸🇫🇷🇪🇸🇯🇵🇪🇬
 <!--
 **LaurenzSommerlad/LaurenzSommerlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
