@@ -1,11 +1,10 @@
 ## Laurenz Sommerlad ##
 Robotics, AI & Entrepreneurship | TUM Student | Sports 🏋️‍♂️🥋🏃🤿🏂 | Languages 🇩🇪🇺🇸🇫🇷🇪🇸🇯🇵🇪🇬
 
-
 ## About Me ##
 I love building things and connecting with people. I learned programming at 12, founded a student-led startup at 15, and joined a technical high school majoring in CS & Math.
 
-- 📚 I'm in my second year of Computer Science & Econ ([Information Systems](https://www.tum.de/en/studies/degree-programs/detail/information-systems-bachelor-of-science-bsc)) at <a href="https://www.tum.de" target="_blank"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/816px-Logo_of_the_Technical_University_of_Munich.svg.png" width="25"></a> - The Technical University of Munich
+- 📚 I'm in my second year of Computer Science & Econ (<a href="https://www.tum.de/en/studies/degree-programs/detail/information-systems-bachelor-of-science-bsc" target="_blank" rel="nofollow">Information Systems</a>) at <a href="https://www.tum.de" target="_blank"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/816px-Logo_of_the_Technical_University_of_Munich.svg.png" alt="TUM Logo" width="25"></a> - The Technical University of Munich
 - 🚀 I'm the Head of Venture Department at <a href="https://www.tum-ai.com" target="_blank">TUM.ai</a> organizing the <a href="https://www.tum-ai.com/e-lab" target="_blank">AI E-Lab</a>, a 14-week equity-free AI startup incubator. Our alumni are raising millions in pre-seed funding and have been accepted into Y Combinator, EWOR, CDTM and other prestigious programs from our partners and the Munich Entrepreneurship Ecosystem
 - 🔭 I'm conducting research at <a href="https://www.ccrc-hauner.de/" target="_blank">LMU Hospital</a> to predict rare child diseases using federated learning-based Graph ML techniques on patient phenotypes, genes, and proteins
 - 🤖 I'm developing perception and path planning software for an Autonomous Mars Rover for the European Rover Challenge 2024 with <a href="https://warr.de/projects/spacerobotics/" target="_blank">WARR Space Robotics</a>, while also leading fundraising efforts for the hardware
@@ -17,16 +16,16 @@ Driven by a desire to make the world a better place, I am committed to solving t
 
 ## Contact ##
 <a href="https://laurenzsommerlad.com" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet" alt="Personal Website"/>
 </a>
 <a href="https://www.linkedin.com/in/laurenzsommerlad" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=LinkedIn&color=0062b1"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=LinkedIn&color=0062b1" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/Lauros_World" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=X/ Twitter&color=blue"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=X/ Twitter&color=blue" alt="X (Former Twitter)"/>
 </a>
 <a href="mailto:laurenz.sommerlad@tum-ai.com" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=Email&color=green"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=Email&color=green" alt="E-Mail"/>
 </a>
 
 <!--
