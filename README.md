@@ -15,7 +15,7 @@ Outside of my professional endeavors, I enjoy doing a lot of different sports li
 
 Driven by a desire to make the world a better place, I am committed to solving the most challenging problems with technology. Feel free to reach out — I am always up for a coffee and a good conversation! ☕
 
-### Contact ###
+## Contact ##
 <a href="https://laurenzsommerlad.com" target="_blank" rel="me">
   <img src="https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet"/>
 </a>
